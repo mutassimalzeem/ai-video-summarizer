@@ -1,12 +1,17 @@
 # AI Video Summarizer
 
-![AI Video Summarizer](https://via.placeholder.com/800x400?text=AI+Video+Summarizer)
+![Screenshot 2025-03-16 120558](https://github.com/user-attachments/assets/cb986436-7b1f-4dfa-8c2d-4d02c7612794)
+
+
+https://github.com/user-attachments/assets/b97b9627-ac9f-4b2a-964f-f399253e28e1
 
 ## Description
 
 AI Video Summarizer is a desktop application that automatically transcribes and summarizes video content using advanced AI models. This tool uses OpenAI's Whisper for speech recognition and Hugging Face's T5 transformer model for text summarization, all wrapped in a user-friendly PyQt5 interface.
 
 ## Features
+
+
 
 - **Video Upload**: Easily select video files from your computer
 - **Automatic Transcription**: Converts speech to text using Whisper AI
@@ -28,7 +33,7 @@ AI Video Summarizer is a desktop application that automatically transcribes and 
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/ai-video-summarizer.git
+git clone https://github.com/mutassimalzeem/ai-video-summarizer.git
 cd ai-video-summarizer
 ```
 
@@ -39,7 +44,7 @@ pip install PyQt5 qtawesome openai-whisper transformers moviepy torch
 
 3. Run the application:
 ```
-python video_summarizer.py
+python ai-video-summarizer.py
 ```
 
 ## Usage
@@ -87,8 +92,8 @@ MIT License - See LICENSE file for details
 
 ## Contributors
 
-- Your Name - Initial work and maintenance
+- Mutassim Al Shahriar Zeem - Initial work and maintenance
 
 ## Contact
 
-For questions, suggestions, or collaborations, please open an issue on this repository or contact [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or collaborations, please open an issue on this repository or contact [mutassimalshahriar@gmail.com](mutassimalshahriar@gmail.com).
